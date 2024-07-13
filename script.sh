@@ -13,7 +13,7 @@ PAT="$4"                                                                   # Giv
 organisation="shubhampandey1204"                                           # Give git organisation name
 backend_repository="SaasTool_BE"                                           # Give backend repository name
 frontend_repository="SaasTool_FE"                                          # Give frontend repository name
-slack_token="xoxb-7298405727970-7300951153124-fZ5GXFYyOl56EWKUkMuDmyh0"    # Give slack post api token
+slack_token="slack_token"                                                  # Give slack post api token
 slack_channel="C078BR7AHV5"                                                # Give slack channel ID
 
 ################################## Variables for AWS #######################################
